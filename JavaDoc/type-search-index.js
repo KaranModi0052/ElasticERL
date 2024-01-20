@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"ERL","l":"ArrayList"},{"p":"ERL","l":"driver"},{"p":"ERL","l":"ElasticERL"},{"p":"ERL","l":"HashTable"},{"p":"ERL","l":"MS"},{"p":"ERL","l":"QS"}];updateSearchResults();
