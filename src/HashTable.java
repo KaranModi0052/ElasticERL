@@ -1,11 +1,6 @@
 package ERL;
 
 import java.util.Random;
-// -----------------------------------------------------
-// Assignment #3
-// © Karan Modi & Dhruv Panchal
-// Written by: Karan Modi - 40220970 & Dhruv Panchal - 40226430
-// ---------------------------------------------------
 
 public class HashTable {
     private long[] keys;
