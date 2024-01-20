@@ -1,9 +1,4 @@
-package ERL;// -----------------------------------------------------
-// Assignment #3
-// © Karan Modi & Dhruv Panchal
-// Written by: Karan Modi - 40220970 & Dhruv Panchal - 40226430
-// ---------------------------------------------------
-
+package ERL;
 public class QS {
 
     private static void swap(long[] arr, int i, int j)
