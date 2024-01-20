@@ -1,12 +1,6 @@
 package ERL;
 
 
-// -----------------------------------------------------
-// Assignment #3
-// © Karan Modi & Dhruv Panchal
-// Written by: Karan Modi - 40220970 & Dhruv Panchal - 40226430
-// ---------------------------------------------------
-
 public class ElasticERL {
     private int size;
     private ArrayList erl2;
