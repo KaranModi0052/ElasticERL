@@ -1,8 +1,4 @@
-package ERL;// -----------------------------------------------------
-// Assignment #3
-// © Karan Modi & Dhruv Panchal
-// Written by: Karan Modi - 40220970 & Dhruv Panchal - 40226430
-// ---------------------------------------------------
+package ERL;
 
 
 import java.io.FileInputStream;
